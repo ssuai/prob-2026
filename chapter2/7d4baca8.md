@@ -1,0 +1,2 @@
+## [Level 2: Intermediate] Linear Transformation of Variance
+Problem: You are given a discrete random variable $X$ where the 1st moment is $E[X] = 5$ and the 2nd moment is $E[X^2] = 29$. Calculate the variance of a new random variable $Y$, defined as:$$Y = -4X + 12$$
