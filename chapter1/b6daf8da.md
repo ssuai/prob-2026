@@ -1,0 +1,1 @@
+2. A machine can be in state type 1, type 2, or type 3 with probabilities 0.7, 0.2, and 0.1, respectively. The probability that the machine triggers an Alarm in each state is 0.05, 0.3, and 0.9, respectively. Compute the overall probability P(Alarm).

@@ -1,0 +1,1 @@
+1. If a coin is tossed once and P(H) = 0.4, find P(T).
