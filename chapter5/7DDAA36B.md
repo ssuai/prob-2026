@@ -1,0 +1,3 @@
+Hard: Applying the Central Limit Theorem
+A system transmits packets of data where the transmission delay of each packet is an i.i.d. random variable with a mean $\mu = 5$ ms and standard deviation $\sigma = 2$ ms. The original distribution of the delay is unknown (it is highly skewed).
+Problem: If a batch of 100 packets is transmitted independently, use the Central Limit Theorem to approximate the probability that the total transmission time for all 100 packets exceeds 530 ms. (Note: You can leave your final answer in terms of the standard normal cumulative distribution function, $\Phi(z)$).

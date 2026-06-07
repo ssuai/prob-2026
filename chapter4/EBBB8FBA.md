@@ -1,0 +1,1 @@
+문제 3: [Hard] 두 독립 변수의 합과 컨볼루션 (Convolution of Independent RVs)문제:두 독립적인 확률변수 $X$와 $Y$가 각각 구간 $[0, 1]$에서 균등 분포(Uniform Distribution)를 따릅니다. 즉, $f_X(x) = 1$ ($0 \le x \le 1$), $f_Y(y) = 1$ ($0 \le y \le 1$)입니다. 이때 두 변수의 합 $Z = X + Y$가 $1 < z \le 2$ 범위를 가질 때의 확률밀도함수 $f_Z(z)$를 컨볼루션 식을 이용하여 유도하세요.

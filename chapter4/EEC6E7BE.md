@@ -1,0 +1,1 @@
+If two random variables $X$ and $Y$ are independent, what is their covariance $cov(X,Y)$? Conversely, if the covariance of two random variables is 0 (meaning they are uncorrelated), can we always conclude that they are independent? Explain your reasoning with an example or property.

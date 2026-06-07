@@ -1,0 +1,2 @@
+[Difficulty: Low] Question 1.
+A factory combines two parts, A and B, to make a finished product. Let the length of part A be the random variable X, and the length of part B be the random variable Y. The length of the finished product is given by Z = X + Y. From past data, it is known that var(X) = 4, var(Y) = 9, and the correlation coefficient between the lengths of the two parts is p(X, Y) = 0.5. What is the variance of the finished product's length, var(Z)?
